@@ -12,7 +12,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode, Your number must be an international number. So you should have your number after the country code. Example: 919876543210 (IN)",
+            "description": "233508968298",
             "required": false
         },
         "HANDLERS": {
@@ -31,11 +31,11 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Enter Heroku API Key.",
+            "description": "9b3af807-ef5c-4f70-b778-f51143e2e1c4",
             "required": true
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter Heroku APP Name.",
+            "description": "hawkeyse",
             "required": true
         },
         "DEBUG": {
@@ -60,7 +60,7 @@
         },
         "WARN_MSG": {
             "description": "Message send while kicking.",
-            "required": false,
+            "required": true,
             "value": "OK bie"
         },
         "REMOVEBG_KEY": {
@@ -73,7 +73,7 @@
             "value": "EN"
         },
         "STICKER_PACKNAME": {
-            "description": "Sticker pack name,author",
+            "description": "Timtech",
             "value": "🥰,lyfe00011"
         },
         "DISABLE_BOT": {
